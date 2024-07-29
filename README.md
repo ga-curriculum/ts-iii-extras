@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) VAR Models
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Time Series III: Extras (GLS, GARCH, and VAR models)
 
 ---
 
@@ -7,9 +7,12 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Jupyter Notebook | [Link](./starter-code.ipynb)| 
+| Lesson | Jupyter Notebook | [Link](./ts-iii-model-demos.ipynb)| 
+| Slides | PDF | [Link](./ts-iii.pdf)
 
-> **Dataset description:** U.S. Macroeconomic Data
+> **Dataset description:** 
+* U.S. Macroeconomic Data
+* Daily McDonald's Stock Data
 
 ---
 
@@ -17,21 +20,9 @@
 
 *After this lesson, students will be able to:*
 
-1. Describe univariate and multivariate time series.
-2. Identify the advantages of working with multivariate time series.
-3. Define VAR models.
-4. Understand and test for the assumptions of VAR models.
-5. Fit, generate predictions from, and evaluate VAR models.
-
----
-
-## Lesson Outline
-
-> **Total Time: 100 mins**
-
-I. **Multivariate Time Series Models** (20 minutes total)
-
-II. **VAR Models** (80 minutes total)
+1. Define models and carry out ARIMA models with covariates in Python
+1. Define models and carry out GARCH models in Python
+1. Define models and carry out VAR models in Python
 
 ---
 
