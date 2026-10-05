@@ -7,8 +7,8 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Jupyter Notebook | [Link](./ts-iii-model-demos.ipynb)| 
-| Slides | PDF | [Link](./ts-iii.pdf)
+| Lesson | Jupyter Notebook | [Link](https://colab.research.google.com/github/ga-curriculum/ts-iii-extras/blob/main/ts-iii-model-demos.ipynb){:target="_blank"}| 
+| Slides | PDF | [Link](https://ga-curriculum.github.io/ts-iii-extras/ts-iii.pdf){:target="_blank"}
 
 > **Dataset description:** 
 * U.S. Macroeconomic Data
